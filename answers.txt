@@ -1,0 +1,15 @@
+git init 
+git clone https://github.com/AbdulMuizMoulana/fresher-git-task.git
+git init
+touch answers.txt
+git add .
+git commit -m"file got created"
+git push origin main
+
+git branch feature
+git checkout feature 
+git add .
+git commit - m "message"
+
+git push origin feature 
+
